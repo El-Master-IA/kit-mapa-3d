@@ -74,4 +74,4 @@ Los decodificadores Draco de `visor/draco/` son de Google (Apache 2.0) y three.j
 
 ---
 
-Parte de **La Bóveda del Master**: recursos que regala [Alexander Cast](https://github.com/AlexanderKast).
+Parte del [laboratorio de El Máster IA](https://www.elmasteria.com/lab): recursos que regala [Alexander Cast](https://github.com/AlexanderKast).
