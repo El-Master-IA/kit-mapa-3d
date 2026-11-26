@@ -9,7 +9,7 @@ convertir tu plano en 3D.
 ```
 Quiero convertir un plano en 3D con calidad profesional.
 
-1. Clona https://github.com/La-Boveda-del-Master/kit-mapa-3d y trabaja dentro de esa carpeta.
+1. Clona https://github.com/El-Master-IA/kit-mapa-3d y trabaja dentro de esa carpeta.
 2. Lee CLAUDE.md y sigue el skill mapa-3d (.claude/skills/mapa-3d/SKILL.md) de principio a fin.
 3. Revisa que tenga Python, las librerías de requirements.txt y Blender. Si falta algo, dime cómo instalarlo
    antes de seguir.
